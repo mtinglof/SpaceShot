@@ -1,0 +1,1 @@
+All other assets, including cannon body, wheels, cannon ball, sounds effects, and explosion sprites were included within the project and are assumed to be publicly licensed
