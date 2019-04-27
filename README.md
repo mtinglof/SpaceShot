@@ -1,5 +1,6 @@
 # Space Shot
 > A 2D Game Designed in Unity 
+
 This 2D simple target shooting game was designed for a Game Design class taken at San Diego State University. It is a project designed to get my toes wet in the game design world. 
 
 ## Installing / Getting started
@@ -13,7 +14,7 @@ From there you can run the installer wizard to get your very own copy of Space S
 
 ## Developing
 
-If you would like to develope the game further, I recommend downloading a copy of Unity and downloading or forking my repository for cloning. 
+If you would like to developed the game further, I recommend downloading a copy of Unity and downloading or forking my repository for cloning. 
 
 ## Features
 
