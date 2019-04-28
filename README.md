@@ -26,5 +26,5 @@ If you'd like to contribute, forks are welcomed. Pulls are also gladly accepted.
 
 ## Links
 
-- Project homepage: https://github.com/mtinglof/SpaceShot
+- Repository: https://github.com/mtinglof/SpaceShot
 - Unity Homepage: https://unity.com/
